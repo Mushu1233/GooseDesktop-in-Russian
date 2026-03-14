@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TogoFire/DesktopGoose/blob/main/Assets/Images/OtherGfx/banner.png" width="450px" />
+  <img src="https://github.com/TogoFire/DesktopGoose/blob/main/Assets/Images/OtherGfx/bannerruss.png" width="450px" />
 </p>
 
 # 🚀 Краткое руководство по работе с Goose Desktop 
