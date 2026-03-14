@@ -1,5 +1,5 @@
 
-  ![Desktop Goose](bannerruss.png)
+  ![Desktop Goose in russian](bannerruss.png)
 </p>
 
 # 🚀 Краткое руководство по работе с Goose Desktop 
