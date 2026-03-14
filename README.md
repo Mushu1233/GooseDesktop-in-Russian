@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/TogoFire/GooseDesktop-in-Russian/blob/main/Assets/Images/OtherGfx/bannerruss.png" width="450px" />
+
+  ![Desktop Goose](bannerruss.png)
 </p>
 
 # 🚀 Краткое руководство по работе с Goose Desktop 
